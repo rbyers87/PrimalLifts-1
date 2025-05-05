@@ -32,3 +32,5 @@ Create supabase/migrations/20250506000000_complete_project.sql
 Run command
 npm install && npm run dev
 I've updated the ProfileSettings.tsx and AdminSettings.tsx components to use Supabase storage for profile and welcome page images. I've also added a storage policy for avatars.
+
+I want to remove cloudinary and use supabase storage/buckets for everything.
