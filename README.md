@@ -14,3 +14,21 @@ for favicons the src has to be specific to the location of the images
 
 
 working message board
+
+last feature i'm working on but it seems computer is having a problem.  
+
+"I want to use supabase storage for all photos, the photo selected for profile and photo selected for Welcome Page image."
+
+Tokens: 208688 (prompt: 207809, completion: 879)
+Okay, I will modify the components to use Supabase storage for profile and welcome page images. This involves updating the ProfileSettings.tsx and AdminSettings.tsx components to upload images to Supabase storage and store the URLs in the database.
+
+
+Project Setup with Supabase Storage
+Click to open Workbench
+
+Create src/components/settings/AdminSettings.tsx
+Create src/components/settings/ProfileSettings.tsx
+Create supabase/migrations/20250506000000_complete_project.sql
+Run command
+npm install && npm run dev
+I've updated the ProfileSettings.tsx and AdminSettings.tsx components to use Supabase storage for profile and welcome page images. I've also added a storage policy for avatars.
