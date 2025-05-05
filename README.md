@@ -22,6 +22,8 @@ last feature i'm working on but it seems computer is having a problem.
 Tokens: 208688 (prompt: 207809, completion: 879)
 Okay, I will modify the components to use Supabase storage for profile and welcome page images. This involves updating the ProfileSettings.tsx and AdminSettings.tsx components to upload images to Supabase storage and store the URLs in the database.
 
+**When updating the sql, please always make it where I can copy and paste directly in supabase sql editor without getting errors like "table already exists"
+
 
 Project Setup with Supabase Storage
 Click to open Workbench
