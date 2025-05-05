@@ -13,4 +13,4 @@ for favicons the src has to be specific to the location of the images
 5/5/2025 fixed workout on Sunday not showing in weekly checklist
 
 
-create a new page for a message board.  This allows users to post messages for each other to interact with.  To respond directly to or like/dislike a comment.  Add settings for admin to delete messages or clear the message board.
+working message board
